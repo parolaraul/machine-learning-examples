@@ -16,7 +16,7 @@ To try each example you should have python and jupyter notebook installed and in
 ~$ source .venv/bin/activate
 ~$ pip install -r requirements.txt
 ```
-4. Run Jupyther 
+4. Run Jupyter 
 ```bash
 ~$ jupyter notebook
 ```
